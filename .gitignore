@@ -1,0 +1,8 @@
+*.params
+*.json
+*.pyc
+*.npy
+*.caffemodel
+*.prototxt
+*.JPEG
+memonger/
